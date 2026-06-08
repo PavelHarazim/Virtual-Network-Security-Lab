@@ -21,3 +21,4 @@ This lab simulates a small business network for learning and hands-on practice i
 
 
 # Setting up VLANs
+Unfortunately, I was not able to create VLANs in the virtual enviroment since VirtualBox's GUI lacks these options.
